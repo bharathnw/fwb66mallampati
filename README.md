@@ -1,1 +1,1 @@
-# fwb66mallampati
+[Click](https://fwb66mallampati.herokuapp.com/) here to access the main page
